@@ -1,0 +1,47 @@
+_repo: Ljungarsin-taru_63789
+_version: 0.0.1
+alternative_title: Ljungars saga. Finnish
+contributor:
+  translator:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Helmi Setälä
+    - Setälä, Helmi
+    - Setala, Helmi
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+    wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+creator:
+  author:
+    agent_name: Topelius, Zacharias
+    aliases:
+    - Topelius, Zachris
+    - Topelius, Zakarias
+    - Topelius, Zakris
+    - Topelius, Sakarias
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '6545'
+    url: http://www.gutenberg.org/2009/agents/6545
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Zacharias_Topelius
+    - https://en.wikipedia.org/wiki/Zachris_Topelius
+    - https://sv.wikipedia.org/wiki/Zacharias_Topelius
+description: ''
+gutenberg_issued: '2020-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63789'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Historical fiction'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- GITenberg
+title: Ljungarsin taru
+url: http://www.gutenberg.org/ebooks/63789
